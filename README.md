@@ -1,0 +1,2 @@
+# dirmoz
+directory moz
